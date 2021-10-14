@@ -1,4 +1,6 @@
 # AISD
 Algorithms &amp; data structures
 
-The following repository mentions some of the algorithms I have implemented during labs on my master degree studies. The algorithms are written in Java and tested using JUnit.
+Binary search algoritm
+
+This algorithm searches for an element of array with specific value and returns its' index. If no element is found, -1 is returned.
