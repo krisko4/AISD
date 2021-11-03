@@ -1,5 +1,5 @@
 # AISD
-Algorithms &amp; data structures
+##Algorithms &amp; data structures
 
 Binary search algoritm
 
