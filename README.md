@@ -1,5 +1,4 @@
-# AISD
-Algorithms &amp; data structures
+# Algorithms &amp; data structures
 
 ## Sorting algorithms implementation
 
