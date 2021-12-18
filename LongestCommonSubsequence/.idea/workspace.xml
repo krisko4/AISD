@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f83f4ea-85db-4d8b-87e7-6dac87a01232" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pw/ee/ArrayBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_1_sorting/src/main/java/pl/edu/pw/ee/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_1_sorting/src/main/java/pl/edu/pw/ee/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_1_sorting/target/test-classes/pl/edu/pw/ee/HeapSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_1_sorting/target/test-classes/pl/edu/pw/ee/HeapSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pw/ee/ArrowType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pw/ee/ArrowType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pw/ee/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pw/ee/LongestCommonSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pw/ee/TableCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pw/ee/TableCell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/edu/pw/ee/LongestCommonSubsequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/edu/pw/ee/LongestCommonSubsequenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22Q77H25y2P9RqyNMzrPkWoJnwf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../labs/AISD/Sorting" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.LongestCommonSubsequenceTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubsequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_9_longest_common_subsequence" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.LongestCommonSubsequenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubsequenceTest.shouldDisplay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_9_longest_common_subsequence" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.LongestCommonSubsequenceTest" />
+      <option name="METHOD_NAME" value="shouldDisplay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubsequenceTest.shouldFindLongestCommonSubsequence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_9_longest_common_subsequence" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.LongestCommonSubsequenceTest" />
+      <option name="METHOD_NAME" value="shouldFindLongestCommonSubsequence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubsequenceTest.shouldThrowExceptionIfSecondConstructorParamIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_9_longest_common_subsequence" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.LongestCommonSubsequenceTest" />
+      <option name="METHOD_NAME" value="shouldThrowExceptionIfSecondConstructorParamIsNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LongestCommonSubsequenceTest" />
+        <item itemvalue="JUnit.LongestCommonSubsequenceTest.shouldDisplay" />
+        <item itemvalue="JUnit.LongestCommonSubsequenceTest.shouldFindLongestCommonSubsequence" />
+        <item itemvalue="JUnit.LongestCommonSubsequenceTest.shouldThrowExceptionIfSecondConstructorParamIsNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f83f4ea-85db-4d8b-87e7-6dac87a01232" name="Default Changelist" comment="" />
+      <created>1639757789241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639757789241</updated>
+      <workItem from="1639757790278" duration="19319000" />
+      <workItem from="1639836326202" duration="694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1639759573804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639759573804" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1639837027058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639837027058" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1639779737926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639779737926" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1639779737926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639779737926" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1639779737925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639779737925" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1639779737926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639779737926" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1639779737926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639779737926" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1639779737926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639779737926" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1639779737926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639779737926" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1639779737926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639779737926" />
+    <state x="773" y="277" key="refactoring.ChangeSignatureDialog" timestamp="1639770470449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="277" key="refactoring.ChangeSignatureDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1639770470449" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pl/edu/pw/ee/LongestCommonSubsequenceTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/edu/pw/ee/ArrayBuilder.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
