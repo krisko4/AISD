@@ -1,7 +1,7 @@
 package pl.edu.pw.ee;
 
 import static org.junit.Assert.assertArrayEquals;
-import static org.junit.Assert.assertTrue;
+
 
 import java.util.Arrays;
 import java.util.Random;

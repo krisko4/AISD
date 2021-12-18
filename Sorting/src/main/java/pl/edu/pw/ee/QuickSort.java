@@ -29,10 +29,6 @@ public class QuickSort implements Sorting {
         int n = 1;
         int pivot;
 
-         // int pivot = splitData(data, start, end);
-//        quicksort(data, start, pivot - 1);
-//        quicksort(data, pivot + 1, end);
-
          if (left < right) {
              while (n > 0){
                  n--;

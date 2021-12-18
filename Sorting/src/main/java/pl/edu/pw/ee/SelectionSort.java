@@ -16,7 +16,7 @@ public class SelectionSort implements Sorting {
                     currentMinIndex = j;
                 }
             }
-            double currentMinValue = nums[i];
+            double currentMinValue = nums[currentMinIndex];
             nums[currentMinIndex] = nums[i];
             nums[i] = currentMinValue;
         }

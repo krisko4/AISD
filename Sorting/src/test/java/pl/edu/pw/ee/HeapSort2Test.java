@@ -3,9 +3,7 @@ package pl.edu.pw.ee;
 import org.junit.Before;
 import org.junit.Test;
 import pl.edu.pw.ee.services.Sorting;
-
 import java.util.Arrays;
-
 import static org.junit.Assert.assertArrayEquals;
 
 public class HeapSort2Test {

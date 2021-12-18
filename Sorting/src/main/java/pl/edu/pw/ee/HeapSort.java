@@ -3,7 +3,7 @@ package pl.edu.pw.ee;
 import pl.edu.pw.ee.services.HeapInterface;
 import pl.edu.pw.ee.services.Sorting;
 
-import java.util.Comparator;
+
 
 public class HeapSort implements Sorting {
 

@@ -1,11 +1,8 @@
 package pl.edu.pw.ee;
 
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import pl.edu.pw.ee.services.HeapInterface;
 
-import java.util.Comparator;
 
 import static org.junit.Assert.*;
 
@@ -38,7 +35,7 @@ public class HeapTest {
         heap.put(item);
 
         //then
-        assertEquals(heap.getElements().get(0), item, 0.0);
+        assertEquals(heap.size(), 1);
     }
 
     @Test
@@ -96,28 +93,6 @@ public class HeapTest {
 
 
 
-
-    @Test
-    public void shouldHeapUpCorrectly(){
-
-        //given
-        double[] nums = {9, 7, 4, 3, 6, 5, 1, 2, 8, 11};
-
-        //when
-        for (double num : nums) {
-            heap.put(num);
-        }
-
-        //then
-        double[] heapedUp = new double[heap.getElements().size()];
-        for(int i = 0; i < heap.getElements().size(); i++){
-            heapedUp[i] = heap.getElements().get(i);
-        }
-
-        double[] expected = {11,9,5,7,8,4,1,2,3,6};
-        assertArrayEquals(heapedUp, expected, 0);
-
-    }
 
 
 

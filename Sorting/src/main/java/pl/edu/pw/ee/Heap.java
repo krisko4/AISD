@@ -1,27 +1,29 @@
 package pl.edu.pw.ee;
-import pl.edu.pw.ee.services.HeapInterface;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+
+import pl.edu.pw.ee.services.HeapInterface;
 
 public class Heap<T extends Comparable<T>> implements HeapInterface<T> {
 
-    private final List<T> elements = new ArrayList<>();
-    private int heapSize = 0;
+
+    private int size = 1000;
+    private T[] elements = (T[]) new Comparable[size];
 
 
-    public List<T> getElements(){
-        return elements;
+
+    public int size() {
+        return nElems;
     }
+
+    private int nElems = 0;
 
 
     private void heapUp() {
 
-        int newElementIndex = heapSize - 1;
+        int newElementIndex = nElems - 1;
         while (newElementIndex > 0) {
             int parentIndex = (newElementIndex - 1) / 2;
-            if (elements.get(parentIndex).compareTo(elements.get(newElementIndex)) >= 0) {
+            if (elements[parentIndex].compareTo(elements[newElementIndex]) >= 0) {
                 return;
             }
             swap(parentIndex, newElementIndex);
@@ -33,11 +35,11 @@ public class Heap<T extends Comparable<T>> implements HeapInterface<T> {
     private void heapDown() {
         int startIndex = 0;
         int child = 1;
-        while (child < heapSize) {
-            if (child + 1 < heapSize && elements.get(child + 1).compareTo(elements.get(child)) > 0) {
+        while (child < nElems) {
+            if (child + 1 < nElems && elements[child + 1].compareTo(elements[child]) > 0) {
                 child++;
             }
-            if (elements.get(startIndex).compareTo(elements.get(child)) >= 0) return;
+            if (elements[startIndex].compareTo(elements[child]) >= 0) return;
             swap(startIndex, child);
             startIndex = child;
             child = 2 * startIndex + 1;
@@ -45,26 +47,39 @@ public class Heap<T extends Comparable<T>> implements HeapInterface<T> {
     }
 
     private T swap(int firstId, int secondId) {
-        T firstValue = elements.get(firstId);
-        elements.set(firstId, elements.get(secondId));
-        elements.set(secondId, firstValue);
+        T firstValue = elements[firstId];
+        elements[firstId] = elements[secondId];
+        elements[secondId] = firstValue;
         return firstValue;
     }
 
-    @Override
+
     public void put(T item) {
-        if(item == null) throw new IllegalArgumentException("Item cannot be null");
-        elements.add(item);
-        heapSize++;
+        if (item == null) throw new IllegalArgumentException("Item cannot be null");
+        elements[nElems] = item;
+        nElems++;
         heapUp();
+        resizeIfNeeded();
     }
 
-    @Override
+    private void resizeIfNeeded() {
+        if (nElems != size) {
+            return;
+        }
+        size *= 2;
+        T[] newEls = (T[]) new Comparable[size];
+        System.arraycopy(elements, 0, newEls, 0, elements.length);
+        elements = newEls;
+
+    }
+
+
     public T pop() {
-        if (heapSize == 0) {
+        if (nElems == 0) {
             throw new ArrayIndexOutOfBoundsException();
         }
-        T poppedItem = swap(0, --heapSize);
+        T poppedItem = swap(0, --nElems);
+        elements[nElems] = null;
         heapDown();
         return poppedItem;
     }
