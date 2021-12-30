@@ -1,6 +1,6 @@
 package pl.edu.pw.ee;
 
-public enum ArrowType{
+public enum ArrowType {
     LEFT,
     TOP,
     DIAGONAL

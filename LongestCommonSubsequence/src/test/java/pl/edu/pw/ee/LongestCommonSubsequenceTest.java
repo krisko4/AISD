@@ -1,66 +1,84 @@
 package pl.edu.pw.ee;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertNotNull;
 
-import org.junit.Before;
 import org.junit.Test;
 
-public class LongestCommonSubsequenceTest 
-{
+public class LongestCommonSubsequenceTest {
     public LongestCommonSubsequence lcs;
 
     @Test(expected = IllegalArgumentException.class)
-    public void shouldThrowExceptionIfFirstConstructorParamIsNull(){
-        //given
-        String firstString = null;
-        String secondString = "test";
+    public void shouldThrowExceptionIfFirstConstructorParamIsNull() {
+        // given
+        String topStr  = null;
+        String leftStr = "test";
 
-        //when
-        lcs = new LongestCommonSubsequence(firstString, secondString);
+        // when 
+        lcs = new LongestCommonSubsequence(topStr, leftStr);
 
-        //then
+        // then
         assert false;
     }
 
     @Test(expected = IllegalArgumentException.class)
-    public void shouldThrowExceptionIfSecondConstructorParamIsNull(){
-        //given
-        String firstString = "test";
-        String secondString = null;
+    public void shouldThrowExceptionIfSecondConstructorParamIsNull() {
+        // given
+        String  topStr = "test";
+        String leftStr = null;
 
-        //when
-        lcs = new LongestCommonSubsequence(firstString, secondString);
+        // when 
+        lcs = new LongestCommonSubsequence(topStr, leftStr);
 
-        //then
+        // then
         assert false;
     }
 
     @Test
-    public void shouldFindLongestCommonSubsequence(){
-        //given
-        String firstString = "KOMPUTER";
-        String secondString = "MAPPER ";
+    public void shouldCreateTableCellArray(){
+        // given
+        String topStr = "często_z_odkrywaniem";
+        String leftStr = "rzeczy_nie_trzeba\n_się_spieszyć";
 
-        //when
-        lcs = new LongestCommonSubsequence(firstString, secondString);
+        // when
+        lcs = new LongestCommonSubsequence(topStr, leftStr);
+
+        // then
+        assertNotNull(lcs.getTableCellArray());
+        int expectedTableCellCount = (topStr.length() + 1) * (leftStr.length() + 1);
+        int tableCellCount = lcs.getTableCellArray().length * lcs.getTableCellArray()[0].length;
+        assertEquals(tableCellCount, expectedTableCellCount);
+
+    }
+
+
+    @Test
+    public void shouldFindLongestCommonSubsequence() {
+        // given
+        String topStr = "często_z_odkrywaniem";
+        String leftStr = "rzeczy_nie_trzeba\n_się_spieszyć";
+
+        // when
+        lcs = new LongestCommonSubsequence(topStr, leftStr);
         String lcsString = lcs.findLCS();
 
-        //then
-        String expected = "MPER";
-        assertEquals(lcsString, expected);
+        // then
+        String expectedResult = "cz__raie";
+        assertEquals(lcsString, expectedResult);
     }
 
     @Test
-    public void shouldDisplay(){
-        //given
-        String firstString = "TAJLAND";
-        String secondString = "KURCZAK";
+    public void shouldDisplay() {
+        // given
+        String topStr = "często_z_odkrywaniem";
+        String leftStr = "rzeczy_nie_trzeba\n_się_spieszyć";
 
-
-        //when
-        lcs = new LongestCommonSubsequence(firstString, secondString);
+        // when 
+        lcs = new LongestCommonSubsequence(topStr, leftStr);
         lcs.display();
+
+        // then
+        assert true;
 
     }
 }
