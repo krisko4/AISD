@@ -22,21 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73276691-6f1a-44fe-89e6-9a08aaebc2fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/main/java/pl/edu/pw/ee/PrimAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/main/java/pl/edu/pw/ee/PrimAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/main/java/pl/edu/pw/ee/services/MinSpanningTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/main/java/pl/edu/pw/ee/services/MinSpanningTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/test/java/pl/edu/pw/ee/PrimAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/test/java/pl/edu/pw/ee/PrimAlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aisd_lab_4_hash_table_open_adressing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_7_huffman/aisd_lab_7_huffman.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="73276691-6f1a-44fe-89e6-9a08aaebc2fc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JUnit.HashDoubleHashingTest,shouldThrowExceptionWhenDeletingNullElement and 2 more">
@@ -147,6 +134,7 @@
       <updated>1641314395539</updated>
       <workItem from="1641314396675" duration="638000" />
       <workItem from="1641755667981" duration="3011000" />
+      <workItem from="1643729552543" duration="562000" />
     </task>
     <servers />
   </component>
@@ -166,21 +154,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1641767701472">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1643729782469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641767701472" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1641767701472">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1643729782469" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1643729782469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641767701472" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1641767701471">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1643729782469" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1643729782469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641767701471" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1641767701472">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1643729782469" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1643729782469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641767701472" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1643729782469" />
   </component>
 </project>
