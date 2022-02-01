@@ -7,11 +7,11 @@ The following repository mentions some of the algorithms I have implemented duri
 
 - **binary search**
 - **sorting**
-  - quicksort
-  - insertion sort
-  - selection sort
-  - heapsort
-  - mergesort
+  - _quicksort_
+  - _insertion sort_
+  - _selection sort_
+  - _heapsort_
+  - _mergesort_
 - **hash table**
   - _hash list chaining_
   - _hash open addressing_
