@@ -22,31 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5aeb6e-604c-4b22-890c-e9974ee9c533" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/RbtMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/RbtMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/RedBlackTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/RedBlackTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/services/MapInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/services/MapInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/correct_small_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/correct_small_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/target/test-classes/pl/edu/pw/ee/MSTTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/target/test-classes/pl/edu/pw/ee/MSTTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/main/java/pl/edu/pw/ee/ArrayBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/main/java/pl/edu/pw/ee/ArrayBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/main/java/pl/edu/pw/ee/TableCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/main/java/pl/edu/pw/ee/TableCell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/test/java/pl/edu/pw/ee/LongestCommonSubsequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/test/java/pl/edu/pw/ee/LongestCommonSubsequenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/src/main/java/pl/edu/pw/ee/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/src/main/java/pl/edu/pw/ee/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/classes/pl/edu/pw/ee/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/classes/pl/edu/pw/ee/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/test-classes/pl/edu/pw/ee/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/test-classes/pl/edu/pw/ee/AppTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="ba5aeb6e-604c-4b22-890c-e9974ee9c533" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../labs/AISD/BinarySearch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -187,6 +163,7 @@
       <workItem from="1643024920251" duration="579000" />
       <workItem from="1643369975939" duration="1090000" />
       <workItem from="1643724920243" duration="25000" />
+      <workItem from="1643735842072" duration="309000" />
     </task>
     <servers />
   </component>
