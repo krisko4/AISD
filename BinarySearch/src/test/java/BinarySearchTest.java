@@ -1,19 +1,21 @@
 import org.junit.Before;
 import org.junit.Test;
-import java.util.Arrays;
+
 import static org.junit.Assert.assertEquals;
 
 
 public class BinarySearchTest {
-    
+
     private Searcher searcher;
 
     @Before
-    public void setUp(){searcher = new BinarySearch();}
+    public void setUp() {
+        searcher = new BinarySearch();
+    }
 
 
     @Test
-    public void shouldWorkOnSingleElementArray(){
+    public void shouldWorkOnSingleElementArray() {
 
         //given
         double[] nums = {10};
@@ -28,7 +30,7 @@ public class BinarySearchTest {
     }
 
     @Test
-    public void shouldWorkOnTwoElementArray(){
+    public void shouldWorkOnTwoElementArray() {
 
         //given
         double[] nums = {10, 25};
@@ -43,7 +45,7 @@ public class BinarySearchTest {
     }
 
     @Test
-    public void shouldWorkOnOddArray(){
+    public void shouldWorkOnOddArray() {
 
         //given
         double[] nums = {10, 25, 37};
@@ -61,7 +63,7 @@ public class BinarySearchTest {
     }
 
     @Test
-    public void shouldWorkOnEvenArray(){
+    public void shouldWorkOnEvenArray() {
 
         //given
         double[] nums = {10, 25, 37, 76};
@@ -81,7 +83,7 @@ public class BinarySearchTest {
     }
 
     @Test
-    public void shouldWorkOnToFindGreaterThanLastIndex(){
+    public void shouldWorkOnToFindGreaterThanLastIndex() {
 
         //given
         double[] nums = {10, 25, 37, 76};
@@ -94,7 +96,7 @@ public class BinarySearchTest {
     }
 
     @Test
-    public void shouldWorkOnToFindEqualsLastIndex(){
+    public void shouldWorkOnToFindEqualsLastIndex() {
 
         //given
         double[] nums = {10, 25, 37, 76};
@@ -108,7 +110,7 @@ public class BinarySearchTest {
     }
 
     @Test
-    public void shouldWorkOnToFindSmallerThanFirstIndex(){
+    public void shouldWorkOnToFindSmallerThanFirstIndex() {
 
         //given
         double[] nums = {10, 25, 37, 76};
@@ -119,7 +121,6 @@ public class BinarySearchTest {
         //then
         assertEquals(result, -1);
     }
-
 
 
 }

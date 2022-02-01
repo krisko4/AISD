@@ -1,7 +1,5 @@
-import java.util.Arrays;
 
 public class BinarySearch implements Searcher {
-
 
 
     @Override
@@ -16,19 +14,15 @@ public class BinarySearch implements Searcher {
 
         while (start <= end) {
             currentIndex = start + (end - start) / 2;
-
             if (nums[currentIndex] > toFind) {
                 end = currentIndex - 1;
-
             } else if (nums[currentIndex] < toFind) {
                 start = currentIndex + 1;
-
             } else {
                 result = currentIndex;
                 break;
             }
         }
-
         return result;
     }
 }
