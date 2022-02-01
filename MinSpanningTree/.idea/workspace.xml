@@ -23,29 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5781c6fc-9d76-421f-b824-77225cd55654" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/RbtMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/RbtMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/RedBlackTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/RedBlackTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/services/MapInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/target/classes/pl/edu/pw/ee/services/MapInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correct_small_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/correct_small_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/edu/pw/ee/MSTTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/edu/pw/ee/MSTTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/src/test/java/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/src/test/java/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/test-classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/test-classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/main/java/pl/edu/pw/ee/ArrayBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/main/java/pl/edu/pw/ee/ArrayBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/main/java/pl/edu/pw/ee/TableCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/main/java/pl/edu/pw/ee/TableCell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/test/java/pl/edu/pw/ee/LongestCommonSubsequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/src/test/java/pl/edu/pw/ee/LongestCommonSubsequenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/src/main/java/pl/edu/pw/ee/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/src/main/java/pl/edu/pw/ee/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/classes/pl/edu/pw/ee/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/classes/pl/edu/pw/ee/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/test-classes/pl/edu/pw/ee/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/test-classes/pl/edu/pw/ee/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,6 +193,7 @@
       <workItem from="1643023797218" duration="28000" />
       <workItem from="1643025508489" duration="638000" />
       <workItem from="1643368196293" duration="2415000" />
+      <workItem from="1643734737615" duration="685000" />
     </task>
     <servers />
   </component>
