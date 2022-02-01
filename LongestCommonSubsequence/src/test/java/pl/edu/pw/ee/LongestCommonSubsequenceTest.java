@@ -96,8 +96,8 @@ public class LongestCommonSubsequenceTest {
     @Test
     public void shouldDisplay() {
         // given
-        String topStr = "A\n\rDWOKA\r\nT";
-        String leftStr = "S\n\rOFIZMA\r\nT";
+        String topStr = "SAMPLE_WORD";
+        String leftStr = "DAPMPLE";
 
         // when
         lcs = new LongestCommonSubsequence(topStr, leftStr);

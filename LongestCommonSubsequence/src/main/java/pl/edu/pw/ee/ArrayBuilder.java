@@ -44,7 +44,7 @@ public class ArrayBuilder extends LCS {
     }
 
     private boolean isSpecialCharacter(char character) {
-        return character == '\n' || character == '\t';
+        return character == '\n' || character == '\t' || character == '\r';
     }
 
     private String buildCharacterCell(char character) {
