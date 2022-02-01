@@ -11,6 +11,7 @@ The following repository mentions some of the algorithms I have implemented duri
   - insertion sort
   - selection sort
   - heapsort
+  - mergesort
 - hash list chaining
 - hash open addressing
   - linear hashing
