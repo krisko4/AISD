@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce863c45-fb9e-437c-863f-1a2b72d99098" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/src/main/java/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/src/main/java/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/src/test/java/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/src/test/java/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearch$Key.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearch$Key.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/classes/pl/edu/pw/ee/services/PatternSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/classes/pl/edu/pw/ee/services/PatternSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/test-classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_12_finite_state_automaton_based_string_search/target/test-classes/pl/edu/pw/ee/DeterministicFiniteAutomatonTextSearchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_1_sorting/aisd_lab_1_sorting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/src/main/java/pl/edu/pw/ee/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/src/main/java/pl/edu/pw/ee/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/classes/pl/edu/pw/ee/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/classes/pl/edu/pw/ee/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/test-classes/pl/edu/pw/ee/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/test-classes/pl/edu/pw/ee/AppTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23HnZoAM7OU5QXiuyxDOjyhTcqZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce863c45-fb9e-437c-863f-1a2b72d99098" name="Default Changelist" comment="" />
+      <created>1641399939369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641399939369</updated>
+      <workItem from="1641399940485" duration="1402000" />
+      <workItem from="1641553477656" duration="16000" />
+      <workItem from="1641755416897" duration="250000" />
+      <workItem from="1642546377622" duration="421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
