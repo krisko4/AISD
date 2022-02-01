@@ -8,73 +8,73 @@ public class ArrayBuilderTest {
 
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionOnNullTopStr() {
-        //given
+        // given
         String topStr = null;
         String leftStr = "test";
         TableCell[][] tableCellArray = new TableCell[10][10];
 
-        //when
+        // when
         arrayBuilder = new ArrayBuilder(topStr, leftStr, tableCellArray);
 
-        //then
+        // then
         assert false;
 
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionOnNullLeftStr() {
-        //given
+        // given
         String topStr = "test";
         String leftStr = null;
         TableCell[][] tableCellArray = new TableCell[10][10];
 
-        //when
+        // when
         arrayBuilder = new ArrayBuilder(topStr, leftStr, tableCellArray);
 
-        //then
+        // then
         assert false;
 
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionOnEmptyTopStr() {
-        //given
+        // given
         String topStr = "";
         String leftStr = "test";
         TableCell[][] tableCellArray = new TableCell[10][10];
 
-        //when
+        // when
         arrayBuilder = new ArrayBuilder(topStr, leftStr, tableCellArray);
 
-        //then
+        // then
         assert false;
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionOnEmptyLeftStr() {
-        //given
+        // given
         String topStr = "test";
         String leftStr = "";
         TableCell[][] tableCellArray = new TableCell[10][10];
 
-        //when
+        // when
         arrayBuilder = new ArrayBuilder(topStr, leftStr, tableCellArray);
 
-        //then
+        // then
         assert false;
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionOnNullTableCellArray() {
-        //given
+        // given
         String topStr = "test";
         String leftStr = "test";
         TableCell[][] tableCellArray = null;
 
-        //when
+        // when
         arrayBuilder = new ArrayBuilder(topStr, leftStr, tableCellArray);
 
-        //then
+        // then
         assert false;
 
     }

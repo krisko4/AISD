@@ -6,11 +6,12 @@ public class TableCell {
     private final int value;
     private ArrowType arrowType;
 
+
     public int getValue() {
         return value;
     }
 
-    public boolean isLCSPath() {
+    public boolean isLCSPath(){
         return isLCSPath;
     }
 
@@ -21,7 +22,6 @@ public class TableCell {
     public ArrowType getArrowType() {
         return arrowType;
     }
-
 
 
     public TableCell(int value) {

@@ -10,66 +10,66 @@ public class LongestCommonSubsequenceTest {
 
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionOnNullTopStr() {
-        //given
+        // given
         String topStr = null;
         String leftStr = "test";
 
-        //when
+        // when
         lcs = new LongestCommonSubsequence(topStr, leftStr);
 
-        //then
+        // then
         assert false;
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionOnEmptyTopStr() {
-        //given
+        // given
         String topStr = "";
         String leftStr = "test";
 
-        //when
+        // when
         lcs = new LongestCommonSubsequence(topStr, leftStr);
 
-        //then
+        // then
         assert false;
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionOnEmptyLeftStr() {
-        //given
+        // given
         String topStr = "test";
         String leftStr = "";
 
-        //when
+        // when
         lcs = new LongestCommonSubsequence(topStr, leftStr);
 
-        //then
+        // then
         assert false;
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionOnNullLeftStr() {
-        //given
+        // given
         String topStr = "test";
         String leftStr = null;
 
-        //when
+        // when
         lcs = new LongestCommonSubsequence(topStr, leftStr);
 
-        //then
+        // then
         assert false;
     }
 
     @Test
     public void shouldCreateTableCellArray() {
-        //given
+        // given
         String topStr = "często_z_odkrywaniem";
         String leftStr = "rzeczy_nie_trzeba\n_się_spieszyć";
 
-        //when
+        // when
         lcs = new LongestCommonSubsequence(topStr, leftStr);
 
-        //then
+        // then
         assertNotNull(lcs.getTableCellArray());
         int expectedTableCellCount = (topStr.length() + 1) * (leftStr.length() + 1);
         int tableCellCount = lcs.getTableCellArray().length * lcs.getTableCellArray()[0].length;
@@ -79,15 +79,15 @@ public class LongestCommonSubsequenceTest {
 
     @Test
     public void shouldFindLongestCommonSubsequence() {
-        //given
+        // given
         String topStr = "często_z_odkrywaniem";
         String leftStr = "rzeczy_nie_trzeba\n_się_spieszyć";
 
-        //when
+        // when
         lcs = new LongestCommonSubsequence(topStr, leftStr);
         String lcsString = lcs.findLCS();
 
-        //then
+        // then
         lcs.display();
         String expectedResult = "cz__raie";
         assertEquals(lcsString, expectedResult);
@@ -95,15 +95,15 @@ public class LongestCommonSubsequenceTest {
 
     @Test
     public void shouldDisplay() {
-        //given
+        // given
         String topStr = "A\n\rDWOKA\r\nT";
         String leftStr = "S\n\rOFIZMA\r\nT";
 
-        //when
+        // when
         lcs = new LongestCommonSubsequence(topStr, leftStr);
         lcs.display();
 
-        //then
+        // then
         assert true;
 
     }
