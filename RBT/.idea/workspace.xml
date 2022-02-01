@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,22 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c11f2c3-9cdd-4ce7-95ea-ea21e0fb921f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/aisd_lab_1_sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aisd_lab_1_sorting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/RbtMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/RbtMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/RedBlackTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/RedBlackTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/services/MapInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/pw/ee/services/MapInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/src/main/java/pl/edu/pw/ee/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/src/main/java/pl/edu/pw/ee/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/classes/pl/edu/pw/ee/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/classes/pl/edu/pw/ee/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/test-classes/pl/edu/pw/ee/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_0_aisd_bsearch/target/test-classes/pl/edu/pw/ee/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/AISD.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +32,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="23EaJ0uarZMGc4x0HkTNahwKI8g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,9 +52,11 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -104,6 +101,7 @@
       <workItem from="1642757470580" duration="1354000" />
       <workItem from="1642783696207" duration="474000" />
       <workItem from="1643022979690" duration="22000" />
+      <workItem from="1643730539942" duration="416000" />
     </task>
     <servers />
   </component>
@@ -123,10 +121,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1641759597710">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1643730679139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641759597710" />
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1643730679139" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1642784181479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
