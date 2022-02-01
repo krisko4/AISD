@@ -1,7 +1,7 @@
 # AISD
 ## Algorithms &amp; data structures
 
-The following repository mentions some of the algorithms I have implemented during labs on my master degree studies. The algorithms are written in Java and tested using JUnit.
+The following repository includes some of the algorithms I have implemented during exercises on my master degree studies. The algorithms are written in Java and tested using JUnit.
 
 ## List of implemented algorithms & data structures
 
