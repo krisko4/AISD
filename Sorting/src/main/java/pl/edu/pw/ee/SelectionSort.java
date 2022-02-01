@@ -6,7 +6,7 @@ public class SelectionSort implements Sorting {
 
     @Override
     public void sort(double[] nums) {
-        if(nums == null){
+        if (nums == null) {
             throw new IllegalArgumentException("nums array cannot be null!");
         }
         for (int i = 0; i < nums.length; i++) {

@@ -11,22 +11,24 @@ public class HeapTest {
     private Heap<Double> heap;
 
     @Before
-    public void setUp(){ heap = new Heap<>();}
+    public void setUp() {
+        heap = new Heap<>();
+    }
 
     @Test(expected = ArrayIndexOutOfBoundsException.class)
-    public void shouldThrowExceptionOnEmptyHeapPop(){
+    public void shouldThrowExceptionOnEmptyHeapPop() {
         //when
         heap.pop();
     }
 
     @Test(expected = IllegalArgumentException.class)
-    public void shouldThrowExceptionOnNullItemPut(){
+    public void shouldThrowExceptionOnNullItemPut() {
         //when
         heap.put(null);
     }
 
     @Test
-    public void shouldCreateSingleElementHeap(){
+    public void shouldCreateSingleElementHeap() {
 
         //given
         double item = 5;
@@ -39,7 +41,7 @@ public class HeapTest {
     }
 
     @Test
-    public void shouldPopSingleElement(){
+    public void shouldPopSingleElement() {
 
         //given
         double item = 5;
@@ -53,10 +55,10 @@ public class HeapTest {
     }
 
     @Test
-    public void shouldPopBiggestValueFirst(){
+    public void shouldPopBiggestValueFirst() {
 
         //given
-        double[] nums = {2,1,4,6,3,9,12};
+        double[] nums = {2, 1, 4, 6, 3, 9, 12};
 
         //when
         for (double num : nums) {
@@ -70,10 +72,10 @@ public class HeapTest {
 
 
     @Test
-    public void shouldPopValuesInTheRightOrder(){
+    public void shouldPopValuesInTheRightOrder() {
 
         //given
-        double[] nums = {2,1,4,6,3,9,12};
+        double[] nums = {2, 1, 4, 6, 3, 9, 12};
 
         //when
         for (double num : nums) {
@@ -90,19 +92,6 @@ public class HeapTest {
 
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }

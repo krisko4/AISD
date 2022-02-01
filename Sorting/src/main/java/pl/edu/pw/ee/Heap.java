@@ -10,7 +10,6 @@ public class Heap<T extends Comparable<T>> implements HeapInterface<T> {
     private T[] elements = (T[]) new Comparable[size];
 
 
-
     public int size() {
         return nElems;
     }

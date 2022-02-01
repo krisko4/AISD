@@ -1,7 +1,6 @@
 package pl.edu.pw.ee;
 
 
-
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
@@ -21,20 +20,20 @@ public class HeapSortPerformanceTest {
      */
     @Test
     @Order(1)
-    public void shouldTestPessimisticCasePerformance(){
+    public void shouldTestPessimisticCasePerformance() {
 
         int n = 100;
         long[] times = new long[n];
-        for(int i = 1; i < n + 1; i++){
+        for (int i = 1; i < n + 1; i++) {
             double[] nums = new double[i * 10000];
-            for(int j = 0; j < nums.length; j++){
+            for (int j = 0; j < nums.length; j++) {
                 nums[j] = j;
             }
             sorting = new HeapSort();
             long startTime = System.nanoTime();
             sorting.sort(nums);
             long endTime = System.nanoTime();
-            times[i - 1] = (endTime - startTime) /1000000;
+            times[i - 1] = (endTime - startTime) / 1000000;
         }
         System.out.println(Arrays.toString(times));
     }
@@ -44,24 +43,20 @@ public class HeapSortPerformanceTest {
      */
     @Test
     @Order(2)
-    public void shouldTestOptimisticCasePerformance(){
+    public void shouldTestOptimisticCasePerformance() {
         int n = 100;
         long[] times = new long[n];
-        for(int i = 1; i < n + 1; i++){
+        for (int i = 1; i < n + 1; i++) {
             double[] nums = new double[i * 10000];
             Arrays.fill(nums, 1);
             sorting = new HeapSort();
             long startTime = System.nanoTime();
             sorting.sort(nums);
             long endTime = System.nanoTime();
-            times[i - 1] = (endTime - startTime)/1000000;
+            times[i - 1] = (endTime - startTime) / 1000000;
         }
         System.out.println(Arrays.toString(times));
     }
-
-
-
-
 
 
     /**
@@ -73,20 +68,19 @@ public class HeapSortPerformanceTest {
         int n = 100;
         long[] times = new long[n];
         Random random = new Random(1);
-        for(int i = 1; i < n + 1; i++){
+        for (int i = 1; i < n + 1; i++) {
             sorting = new HeapSort();
             double[] nums = new double[i * 10000];
-            for(int j = 0; j < nums.length; j++){
+            for (int j = 0; j < nums.length; j++) {
                 nums[j] = random.nextDouble();
             }
             long startTime = System.nanoTime();
             sorting.sort(nums);
             long endTime = System.nanoTime();
-            times[i - 1] = (endTime - startTime)/1000000;
+            times[i - 1] = (endTime - startTime) / 1000000;
         }
         System.out.println(Arrays.toString(times));
     }
-
 
 
 }

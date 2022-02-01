@@ -2,8 +2,6 @@ package pl.edu.pw.ee;
 
 import pl.edu.pw.ee.services.Sorting;
 
-import java.util.Arrays;
-
 
 /**
  * HeapSort implementation without separate Heap class
@@ -11,36 +9,32 @@ import java.util.Arrays;
 public class HeapSort2 implements Sorting {
 
 
-
     @Override
     public void sort(double[] nums) {
 
-        if(nums == null) throw new IllegalArgumentException("Array cannot be null");
-        if(nums.length == 1) return;
+        if (nums == null) throw new IllegalArgumentException("Array cannot be null");
+        if (nums.length == 1) return;
         int lastIndex = nums.length - 1;
         int parentIndex = (lastIndex - 1) / 2;
-        while(parentIndex >= 0){
+        while (parentIndex >= 0) {
             validate(nums, parentIndex, nums.length);
             parentIndex--;
         }
         int length = nums.length;
-        while(length > 0){
+        while (length > 0) {
             swap(nums, 0, length - 1);
             length--;
             validate(nums, 0, length);
         }
-        System.out.println(Arrays.toString(nums));
-
-
     }
 
-    private void validate(double[] nums, int parentIndex, int length){
+    private void validate(double[] nums, int parentIndex, int length) {
         int firstChild = parentIndex * 2 + 1;
-        if(firstChild >= length) return ;
+        if (firstChild >= length) return;
         int secondChild = firstChild + 1;
-        if(secondChild < length){
-            if(nums[firstChild] <= nums[parentIndex] && nums[secondChild] <= nums[parentIndex]) return;
-            if(nums[firstChild] > nums[secondChild]){
+        if (secondChild < length) {
+            if (nums[firstChild] <= nums[parentIndex] && nums[secondChild] <= nums[parentIndex]) return;
+            if (nums[firstChild] > nums[secondChild]) {
                 swap(nums, parentIndex, firstChild);
                 validate(nums, firstChild, length);
                 return;
@@ -49,7 +43,7 @@ public class HeapSort2 implements Sorting {
             validate(nums, secondChild, length);
             return;
         }
-        if(nums[firstChild] > nums[parentIndex]){
+        if (nums[firstChild] > nums[parentIndex]) {
             swap(nums, parentIndex, firstChild);
             validate(nums, firstChild, length);
         }
