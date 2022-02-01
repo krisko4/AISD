@@ -68,14 +68,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../labs/AISD/Sorting" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.LongestCommonSubsequenceTest">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LongestCommonSubsequenceTest.shouldDisplay">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -145,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LongestCommonSubsequenceTest" />
         <item itemvalue="JUnit.LongestCommonSubsequenceTest.shouldDisplay" />
+        <item itemvalue="JUnit.LongestCommonSubsequenceTest" />
         <item itemvalue="JUnit.LongestCommonSubsequenceTest.shouldFindLongestCommonSubsequence" />
         <item itemvalue="JUnit.LongestCommonSubsequenceTest.shouldThrowExceptionIfSecondConstructorParamIsNull" />
       </list>
