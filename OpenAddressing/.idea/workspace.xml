@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73276691-6f1a-44fe-89e6-9a08aaebc2fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab5_rbt/aisd_lab_1_sorting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/main/java/pl/edu/pw/ee/PrimAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/main/java/pl/edu/pw/ee/PrimAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/main/java/pl/edu/pw/ee/services/MinSpanningTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/main/java/pl/edu/pw/ee/services/MinSpanningTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/test/java/pl/edu/pw/ee/PrimAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_10_min_spannig_tree/src/test/java/pl/edu/pw/ee/PrimAlgorithmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aisd_lab_4_hash_table_open_adressing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_7_huffman/aisd_lab_7_huffman.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrayBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/ArrowType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LCS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/LongestCommonSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/classes/pl/edu/pw/ee/TableCell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/ArrayBuilderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aisd_lab_9_longest_common_subsequence/target/test-classes/pl/edu/pw/ee/LongestCommonSubsequenceTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23F0BgXRSfOH6aWX5PMEKqeJlfn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.HashDoubleHashingTest,shouldThrowExceptionWhenDeletingNullElement and 2 more">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashDoubleHashingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_4_hash_table_open_adressing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.HashDoubleHashingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashDoubleHashingTest.shouldPlaceElementsCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_4_hash_table_open_adressing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.HashDoubleHashingTest" />
+      <option name="METHOD_NAME" value="shouldPlaceElementsCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashDoubleHashingTest,shouldThrowExceptionWhenDeletingNullElement and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_4_hash_table_open_adressing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.HashTest" />
+      <option name="METHOD_NAME" value="shouldThrowExceptionWhenDeletingNullElement" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="pl.edu.pw.ee.HashDoubleHashingTest,shouldThrowExceptionWhenDeletingNullElement" />
+        <pattern testClass="pl.edu.pw.ee.HashLinearProbingTest,shouldThrowExceptionWhenDeletingNullElement" />
+        <pattern testClass="pl.edu.pw.ee.HashQuadraticProbingTest,shouldThrowExceptionWhenDeletingNullElement" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HashDoubleHashingTest,shouldThrowExceptionWhenDeletingNullElement and 2 more" />
+        <item itemvalue="JUnit.HashDoubleHashingTest.shouldPlaceElementsCorrectly" />
+        <item itemvalue="JUnit.HashDoubleHashingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73276691-6f1a-44fe-89e6-9a08aaebc2fc" name="Default Changelist" comment="" />
+      <created>1641314395539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641314395539</updated>
+      <workItem from="1641314396675" duration="638000" />
+      <workItem from="1641755667981" duration="3011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1641767701472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641767701472" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1641767701472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641767701472" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1641767701471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641767701471" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1641767701472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641767701472" />
+  </component>
+</project>
